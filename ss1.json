@@ -1,12 +1,12 @@
 [
   {
     "publisher":"Publisher 1",
-    "total":100.0
+    "total":120.0
 
   },
   {
     "publisher":"Publisher 2",
-    "total":30.0
+    "total":45.0
 
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "publisher":"Publisher 5",
-    "total":75.0
+    "total":95.0
 
   }
 ]
