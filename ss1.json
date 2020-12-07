@@ -1,32 +1,27 @@
-{
-	"users":[
+[
+  {
+    "publisher":"Publisher 1",
+    "total":100.0
 
-		{
-			"total": "50",
-			"publisher": "Publisher 1"
-	
-		},
+  },
+  {
+    "publisher":"Publisher 2",
+    "total":30.0
 
-		{
-			"total": "70",
-			"publisher": "Publisher 2"
-	
-		},
-		{
-			"total": "150",
-			"publisher": "Publisher 3"
-	
-		},
-		{
-			"total": "120",
-			"publisher": "Publisher 4"
-	
-		},
-		{
-			"total": "130",
-			"publisher": "Publisher 5"
-	
-		}
+  },
+  {
+    "publisher":"Publisher 3",
+    "total":70.0
 
-	]
-}
+  },
+  {
+    "publisher":"Publisher 4",
+    "total":120.0
+
+  },
+  {
+    "publisher":"Publisher 5",
+    "total":75.0
+
+  }
+]
