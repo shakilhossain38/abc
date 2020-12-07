@@ -1,0 +1,32 @@
+{
+	"users":[
+
+		{
+			"total": "50",
+			"publisher": "Publisher 1"
+	
+		},
+
+		{
+			"total": "70",
+			"publisher": "Publisher 2"
+	
+		},
+		{
+			"total": "150",
+			"publisher": "Publisher 3"
+	
+		},
+		{
+			"total": "120",
+			"publisher": "Publisher 4"
+	
+		},
+		{
+			"total": "130",
+			"publisher": "Publisher 5"
+	
+		}
+
+	]
+}
