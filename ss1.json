@@ -1,27 +1,27 @@
 [
   {
     "publisher":"Publisher 1",
-    "total":120
+    "total":160
 
   },
   {
     "publisher":"Publisher 2",
-    "total":45
+    "total":75
 
   },
   {
     "publisher":"Publisher 3",
-    "total":70
+    "total":170
 
   },
   {
     "publisher":"Publisher 4",
-    "total":30
+    "total":40
 
   },
   {
     "publisher":"Publisher 5",
-    "total":95
+    "total":105
 
   }
 ]
