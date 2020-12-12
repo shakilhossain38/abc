@@ -2,29 +2,28 @@
 	"users":[
 
 		{
-			"total": "50",
-			"publisher": "Publisher 1"
+			"name": "Muksid",
+			"email": "muksid@ishraak.com",
+			"password": "ishraak"
 	
 		},
 
 		{
-			"total": "70",
-			"publisher": "Publisher 2"
+			"name": "Muksid",
+			"email": "muksid@ishraak.com",
+			"password": "ishraak"
 	
 		},
 		{
-			"total": "150",
-			"publisher": "Publisher 3"
+			"name": "Muksid",
+			"email": "muksid@ishraak.com",
+			"password": "ishraak"
 	
 		},
 		{
-			"total": "120",
-			"publisher": "Publisher 4"
-	
-		},
-		{
-			"total": "130",
-			"publisher": "Publisher 5"
+			"name": "Muksid",
+			"email": "muksid@ishraak.com",
+			"password": "ishraak"
 	
 		}
 
