@@ -29,9 +29,19 @@
     "total":35
 
   },
-    {
+  {
     "publisher":"Publisher 7",
     "total":106
+
+  },
+   {
+    "publisher":"Publisher 8",
+    "total":60
+
+  },
+   {
+    "publisher":"Publisher 9",
+    "total":40
 
   }
 ]
