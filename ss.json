@@ -1,31 +1,22 @@
-{
-	"users":[
-
-		{
-			"name": "Muksid",
-			"email": "muksid@ishraak.com",
-			"password": "ishraak"
-	
-		},
-
-		{
-			"name": "Monir",
-			"email": "monir@ishraak.com",
-			"password": "ishraak"
-	
-		},
-		{
-			"name": "Shakil",
-			"email": "Shakil@ishraak.com",
-			"password": "ishraak"
-	
-		},
-		{
-			"name": "Jahid",
-			"email": "Jahid@ishraak.com",
-			"password": "ishraak"
-	
-		}
-
-	]
-}
+[
+   {
+      "name":"Muksid",
+      "email":"muksid@ishraak.com",
+      "password":"ishraak"
+   },
+   {
+      "name":"Monir",
+      "email":"monir@ishraak.com",
+      "password":"ishraak"
+   },
+   {
+      "name":"Shakil",
+      "email":"Shakil@ishraak.com",
+      "password":"ishraak"
+   },
+   {
+      "name":"Jahid",
+      "email":"Jahid@ishraak.com",
+      "password":"ishraak"
+   }
+]
